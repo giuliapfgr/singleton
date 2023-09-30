@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author giuliapina
+ *
+ */
+module singleton {
+}
